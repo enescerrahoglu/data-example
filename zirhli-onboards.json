@@ -1,5 +1,30 @@
 [
   {
+    "id": 1005,
+    "type": "fullScreen",
+    "items": [
+      {
+        "id": 24,
+        "url": "https://eticaret.zirhlitoptan.com/images/thumbs/000/00027135.jpeg",
+        "title": null,
+        "description": null
+      },
+      {
+        "id": 25,
+        "url": "https://eticaret.zirhlitoptan.com/images/thumbs/000/00027131.jpeg",
+        "title": null,
+        "description": null
+      },
+      {
+        "id": 26,
+        "url": "https://github-production-user-asset-6210df.s3.amazonaws.com/76053138/289848964-0dc810d9-cb9f-4917-917c-ed11f3099786.mp4",
+        "title": null,
+        "description": null
+      }
+    ],
+    "position": 2
+  },
+  {
     "id": 1001,
     "type": "fullScreen",
     "items": [
@@ -101,31 +126,6 @@
         "url": "https://github-production-user-asset-6210df.s3.amazonaws.com/76053138/289816417-9d653522-a914-47aa-b257-cb01b00c821b.jpeg",
         "title": "Feast Parmak Patates",
         "description": "Canın patates kızartması çektiyse bu indirimi kaçırma. Feast Parmak Patates (2.5 KG) sadece 129,90 TL"
-      }
-    ],
-    "position": 2
-  },
-  {
-    "id": 1005,
-    "type": "fullScreen",
-    "items": [
-      {
-        "id": 24,
-        "url": "https://eticaret.zirhlitoptan.com/images/thumbs/000/00027135.jpeg",
-        "title": null,
-        "description": null
-      },
-      {
-        "id": 25,
-        "url": "https://eticaret.zirhlitoptan.com/images/thumbs/000/00027131.jpeg",
-        "title": null,
-        "description": null
-      },
-      {
-        "id": 26,
-        "url": "https://github-production-user-asset-6210df.s3.amazonaws.com/76053138/289848964-0dc810d9-cb9f-4917-917c-ed11f3099786.mp4",
-        "title": null,
-        "description": null
       }
     ],
     "position": 2
