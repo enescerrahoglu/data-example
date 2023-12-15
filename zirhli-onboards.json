@@ -157,7 +157,7 @@
   },
   {
     "id": 1007,
-    "type": "fullScreen",
+    "type": "fullScreenOverlay",
     "items": [
       {
         "id": 30,
@@ -170,7 +170,7 @@
   },
   {
     "id": 1008,
-    "type": "fullScreen",
+    "type": "fullScreenOverlay",
     "items": [],
     "position": 1
   }
