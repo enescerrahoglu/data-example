@@ -157,7 +157,7 @@
   },
   {
     "id": 1007,
-    "type": "popupOverlay",
+    "type": "fullScreen",
     "items": [
       {
         "id": 30,
@@ -170,7 +170,7 @@
   },
   {
     "id": 1008,
-    "type": "fullScreenOverlay",
+    "type": "fullScreen",
     "items": [],
     "position": 1
   }
