@@ -154,5 +154,25 @@
       }
     ],
     "position": 3
-  }
+  },
+  {
+    "id": 1007,
+    "type": "popupOverlay",
+    "items": [
+      {
+        "id": 30,
+        "url": "https://github-production-user-asset-6210df.s3.amazonaws.com/76053138/289817823-846ef899-ab7a-4e23-b4a1-259947850878.jpeg",
+        "title": "Bu İndirimler Gerçek mi? (Home)",
+        "description": "20-26 Kasım tarihleri arasında geçerli olmak üzere atıştırmalık ve içecek kategorilerine ait bütün ürünlerde efsane indirimler sizleri bekliyor. KAÇIRIRSANIZ ÜZÜLÜRSÜNÜZ!!!"
+      }
+    ],
+    "position": 1
+  },
+  
+  {
+    "id": 1008,
+    "type": "fullScreenOverlay",
+    "items": [],
+    "position": 1
+  },
 ]
